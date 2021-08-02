@@ -1,0 +1,6 @@
+C:\.net\RodadaTécnica\GraphQL\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.csproj.AssemblyReference.cache
+C:\.net\RodadaTécnica\GraphQL\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.AssemblyInfoInputs.cache
+C:\.net\RodadaTécnica\GraphQL\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.AssemblyInfo.cs
+C:\.net\RodadaTécnica\GraphQL\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.csproj.CoreCompileInputs.cache
+C:\.net\RodadaTécnica\GraphQL\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.MvcApplicationPartsAssemblyInfo.cs
+C:\.net\RodadaTécnica\GraphQL\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.MvcApplicationPartsAssemblyInfo.cache
