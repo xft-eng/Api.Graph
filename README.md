@@ -1,6 +1,6 @@
 - # Introdução
 
-  Simples API com base inMemory que para demonstração de consumo de dados com o GraphQL
+  Simples API com base inMemory para demonstração de consumo de dados com o GraphQL
 
 
 
